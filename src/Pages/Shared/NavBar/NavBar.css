@@ -1,0 +1,28 @@
+.navDesign {
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bolder;
+  color: white;
+  font-size: 18px;
+}
+.navDesign:hover {
+  color: brown;
+}
+.margin {
+  margin-top: 100px;
+}
+
+.borderRight {
+  padding-right: 10px;
+  border-right: 3px solid white;
+  height: 50px;
+  width: 180px;
+}
+.login-btn {
+  width: 120px;
+  /* height: 40px; */
+  text-align: center;
+}
+.text3 {
+  color: white !important;
+}

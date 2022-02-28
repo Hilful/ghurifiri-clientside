@@ -1,0 +1,50 @@
+[
+    {
+      "img": "http://html.cwsthemes.com/suntour/pic/slider-info-4@2x.jpg",
+      "title": "Beauty of Solomon Island",
+      "place": " Oceania Solomon Island",
+      "description": "Paris is a global center for art, fashion, gastronomy and culture.",
+      "time": " 3 Day 2 Night",
+      "price": "4500"
+    },
+    {
+      "img": "http://html.cwsthemes.com/suntour/pic/tours/5.jpg",
+      "title": "Beauty of Istanbul Turkey",
+      "place": " Oceania Solomon Island",
+      "time": " 3 Day 2 Night",
+      "description": "London is a city with a history stretching back to Roman times.",
+      "price": "4500"
+    },
+    {
+      "img": "http://html.cwsthemes.com/suntour/pic/tours/4.jpg",
+      "title": "Beauty of MalDeves",
+      "place": " Oceania Solomon Island",
+      "description": "MalDeves, busy capital, mixes ultra modern and traditional .",
+      "time": " 3 Day 2 Night",
+      "price": "4500"
+    },
+    {
+      "img": "http://html.cwsthemes.com/suntour/pic/tours/6.jpg",
+      "title": "Beauty of Rio de janeiro",
+      "place": " Oceania Solomon Island",
+      "time": " 3 Day 2 Night",
+      "description": "The Marvelous City! Golden beaches and lush mountains, samba-fueled nightlife",
+      "price": "4500"
+    },
+    {
+      "img": "http://html.cwsthemes.com/suntour/pic/tours/7@2x.jpg",
+      "title": "Beauty of Istanbul",
+      "place": " Oceania Solomon Island",
+      "time": " 3 Day 2 Night",
+      "description": "Visit Ottoman Empire's CapitalGet from Istanbul to Bursa",
+      "price": "4500"
+    },
+    {
+      "img": "http://html.cwsthemes.com/suntour/pic/tours/1.jpg",
+      "title": "Beauty of Dubai",
+      "place": " Oceania Solomon Island",
+      "time": " 3 Day 2 Night",
+      "description": "Discover Dubai, with world-class tourism and magnificent tailored destinations.",
+      "price": "4500"
+    }
+  ]

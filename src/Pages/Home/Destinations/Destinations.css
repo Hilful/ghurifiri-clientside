@@ -1,0 +1,14 @@
+.tour-bg{
+    background-image: url('http://travesia.axiomthemes.com/wp-content/uploads/2017/09/form_about_bg.png?id=892');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.padding{
+    padding-top: 120px;
+    padding-left: 50px;
+}
+.title1{
+    border-bottom:  2px solid black;
+}

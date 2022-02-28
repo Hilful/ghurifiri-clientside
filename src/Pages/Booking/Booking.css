@@ -1,0 +1,62 @@
+.form-design1{
+    text-align: center;
+    background-image: url('https://i.ibb.co/jLwFqT0/Cityscape-of-Paris-with-the-Eiffel-tower-during-the-Blue-hour-before-sunrise-The-Rouelle-bridge-is-o.jpg');
+    background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 900px;
+  background-blend-mode: overlay;
+  background-color: rgba(0, 0, 0, 0.801) !important;
+}
+.form-design1 input{
+    width: 80%;
+    margin: 10px;
+    border: 1px solid gray;
+}
+.container2 .card2 {
+    max-width: 400px;
+    height: 300px;
+    margin: 30px 10px;
+    padding: 20px 15px;
+    box-shadow: 0 5px 20px white;
+    transition: 0.3s ease-in-out
+}
+.container2 .card2:hover {
+    height:500px
+}
+.container2 .card2.imgContainer {
+    position: relative;
+    width: 500px;
+    height: 250px;
+    top: -50px;
+    left: 10px;
+    z-index: 1;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2)
+}
+.container2 .card2 .imgContainer img {
+    max-width: 100%;
+    border-radius: 4px
+}
+.container2 .card2 .content {
+    position: relative;
+    margin-top: -140px;
+    padding: 10px 15px;
+    text-align: center;
+    color: white;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.3s ease-in-out
+}
+.container2 .card2:hover .content {
+    visibility: visible;
+    opacity: 1;
+    margin-top: -10px;
+    transition-delay: 0.3s
+}
+
+@media (max-width: 450px) {
+    .container2 {
+       visibility: hidden;
+    }
+}
