@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './About.css'
 import Destinations from '../Home/Destinations/Destinations';
+import './About.css';
 const About = () => {
     return (
         <div className="container-fluid mx-auto">
             <div className="features-bg  margin1">
                 <h1>ABOUT US</h1>
-                <p><Link to="/home">HOME</Link> /About us</p>
+                <p><Link to="/home"></Link></p>
             </div>
             <div className="row container mt-5">
                 <div className="col-lg-7 pe-5">
