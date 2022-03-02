@@ -11,11 +11,12 @@ const Gallery = () => {
                     <div className="img-position img-hover-zoom ">
                     <Fade left> 
                         <img style={{
-                            height: '800px'
-                        }} src="http://travesia.axiomthemes.com/wp-content/uploads/2017/10/tour7-1000x658.jpg" className="img-fluid" alt="" />
+                            height: '600px',
+                            width: '700px',
+                        }} src="https://i.ibb.co/r7Q1fMS/11.jpg" className="img-fluid" alt="" />
                         </Fade>
                         <div className="text-position">
-                            <h2 >Spain Countryside Tour</h2>
+                            <h2 >Sundarban</h2>
                             <button className="btn btn-danger ms-5">View Site</button>
                         </div>
                     </div>
@@ -25,10 +26,10 @@ const Gallery = () => {
                     <Fade left> 
                         <img style={{
                             height: '400px'
-                        }} className="img-fluid" src="http://html.cwsthemes.com/suntour/pic/slider-info-3.jpg" alt="" />
+                        }} className="img-fluid" src="https://i.ibb.co/fMshcqW/44.jpg" alt="" />
                         </Fade>
                         <div className="text-position1">
-                            <p>Vienna All Through</p>
+                            <p>Kuakata</p>
                             <button className="btn  btn-danger">View Site</button>
                         </div>
                     </div>
@@ -39,10 +40,10 @@ const Gallery = () => {
                        <img style={{
                             height: '380px',
                             marginTop: '20px'
-                        }} className="img-fluid" src="http://html.cwsthemes.com/suntour/pic/portfolio/285x285-1.jpg" alt="" />
+                        }} className="img-fluid" src="https://i.ibb.co/y5KbssJ/33.jpg" alt="" />
                      </Fade>
                      <div className="text-position1">
-                            <p>Vienna All Through</p>
+                            <p>Shajek</p>
                             <button className="btn  btn-danger">View Site</button>
                         </div>
                        </div>
@@ -53,10 +54,10 @@ const Gallery = () => {
                     <div className="img-position img-hover-zoom ">
                     <Fade left> <img style={{
                             height: '400px'
-                        }} className="img-fluid" src="http://travesia.axiomthemes.com/wp-content/uploads/2017/10/tour12-1000x658.jpg" alt="" />
+                        }} className="img-fluid" src="https://i.ibb.co/9vz52SC/22.jpg" alt="" />
                         </Fade>
                          <div className="text-position1">
-                            <p>Vienna All Through</p>
+                            <p>Ratargul Swamp Forest</p>
                             <button className="btn  btn-danger">View Site</button>
                         </div>
                     </div>

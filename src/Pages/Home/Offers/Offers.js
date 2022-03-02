@@ -1,6 +1,6 @@
 import React from 'react';
-import { Fade } from 'react-reveal';
 import { Col, Row } from 'react-bootstrap';
+import { Fade } from 'react-reveal';
 import './Offers.css';
 const Offers = () => {
     return (
@@ -18,7 +18,7 @@ const Offers = () => {
                         <Col>
                             <div className="text-center">
                                 <img style={{ width: "50px" }} src="https://i.ibb.co/cF5Wh4b/eiffel-tower.png" alt="" /> <br />
-                                <small>Different Countries</small>
+                                <small>Different Cities</small>
                             </div>
                         </Col>
                         {/* column 2 */}

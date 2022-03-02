@@ -6,8 +6,8 @@ const Footer = () => {
         <div className="container-fluid">
   <div className="row bg-dark text-secondary ps-5 pe-5 pb-5 pt-5 mt-5">
                 <div className="col-lg-3">
-                    <h5 className="fw-bold text-light"><span className="text-info">Trav</span>elsia</h5>
-                    <small>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</small>
+                    <h5 className="fw-bold text-light"><span className="text-danger">Ghuri</span>Firi</h5>
+                    <small>Bangladesh, a tourist attraction in south-central Asia with the world's largest beaches, historical monuments, resorts, picnic spots, forests</small>
                     <p style={{ color: 'white', marginTop: '10px' }}><i className="bg-secondary p-2 rounded-pill fab fa-facebook"></i> <i className="bg-secondary p-2 rounded-pill fab fa-instagram"></i>  <i className="bg-secondary p-2 rounded-pill fab fa-twitter"></i></p>
                 </div>
                 <div className="col-lg-3">
@@ -34,7 +34,7 @@ const Footer = () => {
                 </div>
                 <div className="col-lg-3">
                     <h6 className="fw-bold text-light">Newsletter</h6>
-                    <small>Far far away, behind the word mountains, far from the countries.</small>
+                    <small>Latest travel advice for Bangladesh including how coronavirus (COVID-19) is affecting travel and entry requirements at this time as well as safety</small>
                     <form action="#" className="subscribe-form">
                         <div className="form-group">
                         <input type ="text" class ="form-control mb-2 mt-4 coloring text-center" placeholder="Enter email address"style={{backgroundColor:'#2C2B2B'}}/>

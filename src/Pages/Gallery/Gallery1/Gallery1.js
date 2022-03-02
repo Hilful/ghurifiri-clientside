@@ -17,8 +17,8 @@ const Gallery1 = () => {
                                 <img className="content-image" src="https://i.imgur.com/7cNRozs.jpg" />
                             </Fade>
                             <div className="content-details fadeIn-bottom">
-                                <h3 className="content-title">Geysers Valley Hotel</h3>
-                                <p className="content-text"><i className="fa fa-map-marker"></i> Russia</p>
+                                <h3 className="content-title">Holiday Hotel</h3>
+                                <p className="content-text"><i className="fa fa-map-marker"></i> Cox's Bazar</p>
                             </div>
                         </a> </div>
                     </div>
@@ -29,8 +29,8 @@ const Gallery1 = () => {
                             <img className="content-image" src="https://i.imgur.com/CS59IJZ.jpg" />
                             </Fade>
                             <div className="content-details fadeIn-bottom">
-                                <h3 className="content-title">Khumbu Valley Hotel</h3>
-                                <p className="content-text"><i className="fa fa-map-marker"></i> Nepal</p>
+                                <h3 className="content-title">Shajek Valley Hotel</h3>
+                                <p className="content-text"><i className="fa fa-map-marker"></i> Bandarban</p>
                             </div>
                         </a> </div>
                     </div>
@@ -41,8 +41,8 @@ const Gallery1 = () => {
                             <img className="content-image" src="https://i.imgur.com/LITAKvq.jpg" />
                             </Fade>
                             <div className="content-details fadeIn-bottom">
-                                <h3 className="content-title">Waipi’o Valley Hotel</h3>
-                                <p className="content-text"><i className="fa fa-map-marker"></i> Hawaii</p>
+                                <h3 className="content-title">Honeymoon Lodge</h3>
+                                <p className="content-text"><i className="fa fa-map-marker"></i> Sylhet</p>
                             </div>
                         </a> </div>
                     </div>

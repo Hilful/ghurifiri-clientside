@@ -22,7 +22,7 @@ const Services = () => {
 
     return (
         <div className="margin container">
-            <h3 className="text-center mb-5">WE PROVIDE <span className="text-danger">THE BEST TOUR</span></h3>
+            <h3 className="text-center mb-5">WE OFFER <span className="text-danger">THE BEST KIND OF EXPERIENCE</span></h3>
             <Container>
                 <Row lg={3} sm={1} className="container">
                     {
@@ -35,13 +35,13 @@ const Services = () => {
                                 <div className="p-3">
                                     <Card.Title style={{ fontSize: '20px', color: "red" }}>{service.title}</Card.Title>
                                     <p className="text text-bold text-dark">{service.description.slice(0,30)}</p>
-                                    <small><i className="far fa-clock"></i> 7 days <span className="ps-5"><i className="fas fa-users"></i> Max People:5</span></small>
+                                    <small><i className="far fa-clock"></i> 2 days and 3 nights <span className="ps-5"><i className="fas fa-users"></i> Max People:4</span></small>
                                     <Card.Text>
 
                                     </Card.Text>
                                     <div className="d-flex align-items-center justify-content-between mt-3 pb-3">
                                         <h6 className="text-danger">${service.price}</h6>
-                                        <Link to={`/booking/${service._id}`}><button onClick={() => (service._id)} className="btn btn-danger">Book now</button></Link>
+                                        <Link to={`/booking/${service._id}`}><button onClick={() => (service._id)} className="btn btn-danger">Grab Offer</button></Link>
                                     </div>
                                 </div>
                             </Card>
