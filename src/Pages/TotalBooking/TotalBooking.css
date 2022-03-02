@@ -1,0 +1,14 @@
+table.table tbody tr td {
+  /* padding: 17px; */
+  border-right: 1px solid #e6eaed;
+}
+@media (max-width: 480px) {
+  td,
+  th,
+  tr {
+    display: table-row;
+  }
+}
+.booking {
+  min-height: 100vh;
+}

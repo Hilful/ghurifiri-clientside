@@ -1,0 +1,24 @@
+.features-bg {
+  text-align: center;
+  background-image: url("http://travesia.axiomthemes.com/wp-content/uploads/2017/10/slider1_1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 450px;
+  color: white;
+  background-blend-mode: overlay;
+  font-weight: bolder;
+}
+
+.img-hover-zoom {
+  overflow: hidden;
+}
+.image {
+  height: 300px;
+}
+.img-hover-zoom img {
+  transition: transform 0.5s ease;
+}
+.img-hover-zoom:hover img {
+  transform: scale(1.5);
+}

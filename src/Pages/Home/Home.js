@@ -1,6 +1,6 @@
 import React from 'react';
-import Gallary from '../Gallary/Gallary';
-import Gallary1 from '../Gallary/Gallary1/Gallary1';
+import Gallery from '../Gallery/Gallery';
+import Gallery1 from '../Gallery/Gallery1/Gallery1';
 import Services from '../Services/Services';
 import Banner from './Banner/Banner';
 import Destinations from './Destinations/Destinations';
@@ -11,10 +11,10 @@ const Home = () => {
         <div>
             <Banner></Banner>
             <Services></Services>
-            <Gallary></Gallary>
+            <Gallery></Gallery>
             <Destinations></Destinations>
             <Offers></Offers>
-            <Gallary1></Gallary1>
+            <Gallery1></Gallery1>
         </div >
     );
 };
